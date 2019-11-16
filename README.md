@@ -1,3 +1,1 @@
-# jail
-
-format nomor 085xxxxxx atau 6285xxxxx
+format nomor 085316267889 atau 6285325678901
