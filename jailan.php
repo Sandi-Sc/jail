@@ -13,7 +13,7 @@ function send($phone){
 }
 echo "Lamun Keur Bosen Euweuh Pagawean Ulah Hulang Huleng Siga Embe Jualeun Ming G ngajailan babaturan Nu keur Maen Game Telpon Ku Cara Make Script Ieu Nu Dijieun Ku\n\n";
 echo "                             SANDI PIRMANSYAH\n\n";
-echo "Jailan Babaturan Salagi Bisa\nInput : ";
+echo "Jailan Babaturan Salagi Bisa\nSANOMER 3 KALI SAPOE\nInput awalan 628xxx: ";
 $nomor = trim(fgets(STDIN));
 $execute = send($nomor);
 print $execute;
